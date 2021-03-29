@@ -3,7 +3,7 @@
     "name": "Chat de los avengers",
     "start_url": "index.html",
     "background_color": "#3498db",
-    "theme-color": "#3498db",
+    "theme_color": "#3498db",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [
